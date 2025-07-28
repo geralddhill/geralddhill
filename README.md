@@ -1,4 +1,4 @@
-## Hi, I'm Gerald
+## Hi, I'm Gerald 👋🏻
 
 I've enjoyed working with Javascript and Python ever since starting at Cal State University, Long Beach, where I started building school projects using those languages. The fact that you can do so much with such simple languages has always amazed me. Especially now, working on front end projects with React.js has made me never want to go back to vanilla HTML/JS to build a website ever again.
 
