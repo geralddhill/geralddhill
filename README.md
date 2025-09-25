@@ -1,8 +1,8 @@
 ## Hi, I'm Gerald! 👋🏻
 
-I've enjoyed working with Javascript and Python ever since starting at Cal State University, Long Beach, where I started building school projects using those languages. The fact that you can do so much with such simple languages has always amazed me. Especially now, working on front end projects with React.js has made me never want to go back to vanilla HTML/JS to build a website ever again.
+I've enjoyed working with Javascript and Python ever since starting at Cal State University, Long Beach, where I started building school projects using those languages. The fact that you can do so much with such simple languages has always amazed me. Especially now, working on projects with React.js frameworks like Next.js has made me never want to go back to vanilla HTML/JS to build a website ever again.
 
-I am currently looking out for a summer internship for frontend web development, ideally in JS or Python. If you're hiring, let's talk!
+I am currently looking out for a summer web development internship, ideally in JS or Python. If you're hiring, let's talk!
 
 <a href="mailto:geraldhill751@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
