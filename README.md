@@ -4,7 +4,7 @@ I've enjoyed working with Javascript and Python ever since starting at Cal State
 
 I am currently looking out for a summer web development internship, ideally in JS or Python. If you're hiring, let's talk!
 
-<a href="mailto:geraldhill751@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:geralddhill@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--
 **geralddhill/geralddhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
